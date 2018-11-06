@@ -1,0 +1,22 @@
+{
+  "name": "ourcurl",
+  "version": "1.0.0",
+  "description": "implementing curl in javascript",
+  "main": "bash.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elcess/Bash.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elcess/Bash/issues"
+  },
+  "homepage": "https://github.com/Elcess/Bash#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
